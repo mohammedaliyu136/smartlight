@@ -11,6 +11,10 @@
 ![ScreenShot](/screenshots/device-1.png?raw=true "Screen shot - home")
 ![Alt text](/screenshots/device-2.png?raw=true "Screen shot - settings")
 
+<div align="center">
+    <img src="/screenshots/device-1.png" width="400px"</img> 
+</div>
+
 ### Core Technical Concepts/Inspiration
 
 - Why does it exist?
