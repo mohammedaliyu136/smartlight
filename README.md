@@ -8,12 +8,14 @@
 - Include badges.
 - If possible, include screenshots and demo videos.
 
-![ScreenShot](/screenshots/device-1.png?raw=true "Screen shot - home")
-![Alt text](/screenshots/device-2.png?raw=true "Screen shot - settings")
-
-<div align="center">
+<div align="left">
     <img src="/screenshots/device-1.png" width="400px"</img> 
 </div>
+
+<div align="right">
+    <img src="/screenshots/device-2.png" width="400px"</img> 
+</div>
+
 
 ### Core Technical Concepts/Inspiration
 
