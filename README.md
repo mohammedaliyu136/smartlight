@@ -8,11 +8,11 @@
 - Include badges.
 - If possible, include screenshots and demo videos.
 
-<div align="left">
+<div align="left" style="float:left">
     <img src="/screenshots/device-1.png" width="400px"</img> 
 </div>
 
-<div align="right">
+<div align="right"  style="float:right">
     <img src="/screenshots/device-2.png" width="400px"</img> 
 </div>
 
