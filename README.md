@@ -8,9 +8,9 @@
 - Include badges.
 - If possible, include screenshots and demo videos.
 
-    <img src="/screenshots/device-1.png" width="400px"></img> 
+    <img src="/screenshots/device-1.png" width="300px"></img> 
 
-    <img src="/screenshots/device-2.png" width="400px"></img> 
+    <img src="/screenshots/device-2.png" width="300px"></img> 
 
 
 ### Core Technical Concepts/Inspiration
