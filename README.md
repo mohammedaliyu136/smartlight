@@ -8,7 +8,7 @@
 - Include badges.
 - If possible, include screenshots and demo videos.
 
-![Alt text](/screenshots/device-1.png?raw=true "Screen shot - home")
+![ScreenShot](/screenshots/device-1.png?raw=true "Screen shot - home")
 ![Alt text](/screenshots/device-2.png?raw=true "Screen shot - settings")
 
 ### Core Technical Concepts/Inspiration
